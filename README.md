@@ -1,5 +1,5 @@
 # Ionic-Tabs-Starter
-Starter Template for Ionic
+Starter Template using tabs for Ionic 5
 
 Expands on the official Ionic tabs starter template.
 
